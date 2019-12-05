@@ -1,0 +1,15 @@
+{
+  "name": "ecdms-nodeui",
+  "version": "1.0.0",
+  "description": "ecdms node ui",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ecdms",
+    "node"
+  ],
+  "author": "zane",
+  "license": "ISC"
+}
